@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/css-flexbox-QBRJH1gwqR)
+- Live Site URL: [https://blazehashira.github.io/Order-summary-component/)
 
 ## My process
 
@@ -49,7 +49,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Nasir Sani](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Nasir Sani](https://blazehashira.github.io/Order-summary-component/)
+- Frontend Mentor - [@Blazehashira](https://www.frontendmentor.io/profile/Blazehashira)
 
 
